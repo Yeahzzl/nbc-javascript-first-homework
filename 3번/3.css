@@ -1,4 +1,5 @@
 .container {
+  /* height값을 주지 않아서 세로 중앙정렬이 먹히지 않았었음 */
   height: 100vh;
   display: flex;
   justify-content: center;
