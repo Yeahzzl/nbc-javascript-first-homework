@@ -1,0 +1,13 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+}
+
+.box {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+}
